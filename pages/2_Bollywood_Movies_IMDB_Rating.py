@@ -29,9 +29,3 @@ col1, col2 = st.columns(2)
 fig_1 = px.histogram(df[df['Genre'] == Genre], y="Rating")
 col1.plotly_chart(fig_1, use_container_width=True)
 
-# fig_1 = px.histogram(df[df['Price Cr'] == Price Cr], x="Price Cr")
-# col1.plotly_chart(fig_1, use_container_width=True)
-
-# fig_2 = px.histogram(df[df['Genre'] == Genre], y="Votes")
-# col2.plotly_chart(fig_2, use_container_width=True)
-
