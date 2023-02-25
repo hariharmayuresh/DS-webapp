@@ -6,7 +6,7 @@ linkedin_url = "https://www.linkedin.com/in/mayuresh-harihar-2a170721a/"
 github_url = "https://github.com/hariharmayuresh"
 instagram_url = "https://www.instagram.com/hariharmayuresh/"
 
-photo_url = "sol/resources/images/profile_photo.png" 
+photo_url = "resources/images/profile_photo.png" 
 st.image(photo_url, width=300)
 
 st.title(name)
