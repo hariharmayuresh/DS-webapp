@@ -1,5 +1,5 @@
 import streamlit as st
-import os 
+from PIL import Image
 
 name = ":blue[Mayuresh] :blue[Harihar]"
 bio = ":green[Data Science enthusiast] and Intern at Innomatics :red[Research Labs]"
@@ -7,13 +7,7 @@ linkedin_url = "https://www.linkedin.com/in/mayuresh-harihar-2a170721a/"
 github_url = "https://github.com/hariharmayuresh"
 instagram_url = "https://www.instagram.com/hariharmayuresh/"
 
-FILE_DIR = os.path.dirname(os.path.abspath(__file__))
-
-PARENT_DIR = os.path.join(FILE_DIR, os.pardir)
-
-dir_of_interest = os.path.join(PARENT_DIR, "resources")
-
-photo_url = os.path.join(dir_of_interest, "images", "profile_photo.png")
+photo_url = Image.open("resources/images/profile_photo.png")
 st.image(photo_url, width=300)
 
 st.title(name)
