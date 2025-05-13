@@ -7,8 +7,8 @@ A combined interactive web application developed using Streamlit, providing two 
 ## 🚀 Project Overview
 
 This Streamlit-based application showcases two insightful dashboards:
-	1.	IPL Auction 2023 Dashboard – Visualizes team-wise player purchases, spending patterns, and auction statistics.
-	2.	Bollywood IMDB Ratings Dashboard – Displays trends in Bollywood movies’ performance, genre-based ratings, and actor/director analysis using IMDB data.
+- 1.	IPL Auction 2023 Dashboard – Visualizes team-wise player purchases, spending patterns, and auction statistics.
+- 2.	Bollywood IMDB Ratings Dashboard – Displays trends in Bollywood movies’ performance, genre-based ratings, and actor/director analysis using IMDB data.
 
 
 ## ✨ Features
