@@ -1,11 +1,11 @@
-🎬 IPL Auction & Bollywood Movies IMDB Ratings Dashboard
+## 🎬 IPL Auction & Bollywood Movies IMDB Ratings Dashboard
 
 A combined interactive web application developed using Streamlit, providing two key data visualizations:
 📊 IPL 2023 Auction Insights and 🎥 Bollywood Movies IMDB Ratings Dashboard.
 
 ⸻
 
-🚀 Project Overview
+## 🚀 Project Overview
 
 This Streamlit-based application showcases two insightful dashboards:
 	1.	IPL Auction 2023 Dashboard – Visualizes team-wise player purchases, spending patterns, and auction statistics.
@@ -13,7 +13,7 @@ This Streamlit-based application showcases two insightful dashboards:
 
 ⸻
 
-✨ Features
+## ✨ Features
 
 🔹 IPL Auction Dashboard
 	•	Team-wise total spending and player count
@@ -29,7 +29,7 @@ This Streamlit-based application showcases two insightful dashboards:
 
 ⸻
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 	•	Python
 	•	Pandas, Matplotlib, Seaborn
 	•	Streamlit (for web app)
@@ -37,7 +37,7 @@ This Streamlit-based application showcases two insightful dashboards:
  
 ⸻
 
-🧠 Learnings
+## 🧠 Learnings
 	•	Data wrangling and cleaning of real-world datasets
 	•	Exploratory Data Analysis (EDA) and deriving insights
 	•	Streamlit app building and multi-page navigation
@@ -45,6 +45,6 @@ This Streamlit-based application showcases two insightful dashboards:
 
 ⸻
 
-📌 Use Case
+## 📌 Use Case
 
 This project helps cricket enthusiasts and movie buffs interactively explore auction and film data. It can aid media analysts, data science learners, and storytellers in understanding how data drives insights in sports and entertainment.
