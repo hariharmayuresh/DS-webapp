@@ -13,17 +13,18 @@ This Streamlit-based application showcases two insightful dashboards:
 
 ## ✨ Features
 
-🔹 IPL Auction Dashboard
-	•	Team-wise total spending and player count
-	•	Player role distribution (Batsman, Bowler, All-Rounder, etc.)
-	•	Country-wise representation of players
-	•	Highest-paid players and auction trends
+🔹 IPL Auction Dashboard:
+
+- Team-wise total spending and player count
+- Player role distribution (Batsman, Bowler, All-Rounder, etc.)
+- Country-wise representation of players
+- Highest-paid players and auction trends
 
 🔹 Bollywood Movies IMDB Ratings
-	•	Ratings distribution across genres and years
-	•	Top-rated movies and directors
-	•	Actor/Actress performance comparison
-	•	Movie trends based on runtime and votes
+- Ratings distribution across genres and years
+- Top-rated movies and directors
+- Actor/Actress performance comparison
+- Movie trends based on runtime and votes
 
 
 ## 🛠️ Tech Stack
