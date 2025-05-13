@@ -1,4 +1,4 @@
-## 🎬 IPL Auction & Bollywood Movies IMDB Ratings Dashboard
+## 🎬 IPL Auction 2023 & Bollywood Movies IMDB Ratings Dashboard
 
 A combined interactive web application developed using Streamlit, providing two key data visualizations:
 📊 IPL 2023 Auction Insights and 🎥 Bollywood Movies IMDB Ratings Dashboard.
